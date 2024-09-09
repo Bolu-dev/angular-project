@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+  <head>
+    <!-- testing pretty URLs with $locationProvider -->
+    <!-- <base href="/" /> -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.3/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.3/angular-route.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.3/angular-animate.min.js"></script>
+    <script src="todo.js"></script>
+    <link rel="stylesheet" href="./content/css/styles.css" />
+  </head>
+  <body>
+    <!-- using ng include -->
+    <header ng-include="'header.html'"></header>
+    <main ng-view></main>
+  </body>
+</html>

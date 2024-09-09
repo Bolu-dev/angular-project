@@ -1,0 +1,30 @@
+[
+  {
+    "name": "yoshi",
+    "belt": "green",
+    "rate": 300,
+    "available": true,
+    "thumb": "ninjaa.jpg"
+  },
+  {
+    "name": "chrystal",
+    "belt": "red",
+    "rate": 50,
+    "available": true,
+    "thumb": "ninja.jpg"
+  },
+  {
+    "name": "ryu",
+    "belt": "blue",
+    "rate": 9000,
+    "available": true,
+    "thumb": "ninjaa.jpg"
+  },
+  {
+    "name": "fvglyy",
+    "belt": "black",
+    "rate": 100000,
+    "available": true,
+    "thumb": "ninja.jpg"
+  }
+]
